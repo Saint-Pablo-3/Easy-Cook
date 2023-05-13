@@ -7,4 +7,4 @@ Notice. If you have a problem with the recipe loading, I recommend to create a f
 
 
 
-<img src="https://cloud.githubusercontent.com/assets/screenshot.jpg" width="400" height="790">
+<img src="https://github.com/Saint-Pablo-3/Easy-Cook/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-13%20at%2014.45.15.png" width="400" height="790">
